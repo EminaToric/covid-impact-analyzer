@@ -2,7 +2,7 @@
 
 An interactive data dashboard examining four dimensions of COVID-19 impact across seven countries: mortality trends and data quality, vaccination rollout, healthcare system strain, and economic impact and recovery.
 
-**Live Demo:** [View Dashboard](#) ← replace with your Vercel URL
+**Live Demo:** [View Dashboard](#) 
 
 ---
 
